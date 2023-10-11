@@ -65,7 +65,7 @@ body {
     color: #F4F4FD;
 }
 
-.visuallyhidden {
+.visually-hidden {
     border: 0;
     clip: rect(0 0 0 0);
     height: 1px;
@@ -1003,7 +1003,7 @@ body {
     color: #4D5AE5;
 }
 
-.modal-privacy:checked+.policy>.policy-span {
+.modal-privacy:checked+.privacy>.privacy-span {
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;
