@@ -420,12 +420,16 @@ body {
     color: #FFFFFF;
 }
 
+.team-icon-item {
+    width: 40px;
+    height: 40px;
+}
+
 .footer-box-btn {
     display: flex;
     align-items: center;
     justify-content: center;
     min-width: 165px;
-    height: 40px;
     border-radius: 4px;
     font-size: 16px;
     font-weight: 500;
@@ -437,6 +441,7 @@ body {
     background-color: #4D5AE5;
     border: none;
     cursor: pointer;
+    height: 40px;
 }
 
 .icon-footer-btn {
@@ -444,10 +449,7 @@ body {
     fill: #FFFFFF;
 }
 
-.team-icon-item {
-    width: 40px;
-    height: 40px;
-}
+
 
 .team-icon-footer {
     display: flex;
