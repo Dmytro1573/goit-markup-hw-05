@@ -950,6 +950,7 @@ body {
     text-align: left;
     color: #8E8F99;
     margin-left: 8px;
+    margin-bottom: 24px;
 }
 
 .policy-span {
@@ -975,6 +976,11 @@ body {
     fill: #F4F4FD;
 }
 
+.checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .modal-btn {
     position: absolute;
